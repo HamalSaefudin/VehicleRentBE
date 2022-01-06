@@ -1,0 +1,46 @@
+{
+  "name": "vehicle-rent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "DB_URL=mongodb+srv://Hamalsaefudin:Hamal480@vehiclerent.xrcdj.mongodb.net/VehicleRent?retryWrites=true&w=majority SECRET_TOKEN = 0bbc023b588fbc55e9786931d4d385dc0d8972d5b8bc5c7fc49c76b25d3228b0a0c0b3927600a798b6e2648e4b8b8c5453fb81e054f3f780bb25aa3a7f95b2dc SECRET_REFRESH_TOKEN = 2f3dfccd46420cf401e7553cd5799d486bb144c53379a479e3f866d0e20dca4b0f73cee2a64e2865fab5fb7e39fc6b280670e566a028638ba4ceae9c4b067983 node index.js",
+    "start:dev": "nodemon index.js",
+    "start-server": "node index.js"
+  },
+  "author": "Hamal Saefudin",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.15.0",
+    "@babel/plugin-proposal-optional-chaining": "^7.14.5",
+    "@babel/preset-env": "^7.15.0",
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "express-validator": "^6.12.2",
+    "google-auth-library": "^7.9.2",
+    "helmet": "^4.6.0",
+    "http-status": "^1.5.0",
+    "joi": "^17.4.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.6",
+    "multer": "^1.4.3",
+    "nodemailer": "^6.7.1",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6",
+    "yamljs": "^0.3.0"
+  },
+  "engines": {
+    "node": "16.7.0"
+  }
+}

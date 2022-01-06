@@ -1,0 +1,8 @@
+{
+    "env": {
+        "SECRET_REFRESH_TOKEN": "2f3dfccd46420cf401e7553cd5799d486bb144c53379a479e3f866d0e20dca4b0f73cee2a64e2865fab5fb7e39fc6b280670e566a028638ba4ceae9c4b067983",
+        "SECRET_TOKEN": "0bbc023b588fbc55e9786931d4d385dc0d8972d5b8bc5c7fc49c76b25d3228b0a0c0b3927600a798b6e2648e4b8b8c5453fb81e054f3f780bb25aa3a7f95b2dc",
+        "DB_URL": "mongodb+srv://Hamalsaefudin:Hamal480@vehiclerent.xrcdj.mongodb.net/VehicleRent?retryWrites=true&w=majority",
+        "PORT": 8080
+    }
+}

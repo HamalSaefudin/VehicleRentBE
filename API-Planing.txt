@@ -1,0 +1,23 @@
+# Research:
+- Scheduller
+- Transactional(rollback etc)
+
+main focus :
+- Formatting csv file and pdf file
+
+* Notes to myself: on our planing and review our discussion always 
+lil bit out of topic
+we should focus on our mvp, we can discus about the future of this application 
+later
+when client start to tell about the algorithm, note the idea, 
+and tell them to back to our main focus
+
+after all requirement for the mvp is clear, we can start to discuss the algorithm
+remember to notes every client want on api-planing
+
+use office our for working this project, use our free time to explore about architecture and ts(web dev simplified solid)
+*
+
+
+
+ENDPOINT : https://mini-katalog.herokuapp.com/

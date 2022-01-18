@@ -12,6 +12,7 @@ const path = require('path')
 
 const userRoutes = require('./src/routes/user');
 const authRoutes = require('./src/routes/authentication');
+const transportationRoutes = require('./src/routes/tranposrtation');
 const errorParser  = require('./src/middleware/error-handler');
 
 const app = express();
@@ -23,6 +24,7 @@ app.use(bodyParser.json());
 app.use("/api-docs",swaggerUi.serve,swaggerUi.setup(swaggerDocument))
 // router
 app.use('/User',userRoutes)
+app.use('/Transportation',transportationRoutes)
 app.use(authRoutes)
 
 

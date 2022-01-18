@@ -18,3 +18,8 @@ Content-Type: application/json
     "username": "Budi",
     "role":"user"
 }
+
+###
+GET http://localhost:8080/transportation/getAllTransportation
+Content-Type: application/json
+ 

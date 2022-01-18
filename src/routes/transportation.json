@@ -1,0 +1,108 @@
+[
+    {
+        "name": "Honda Civic Hatchback (2018)",
+        "address": "Jl. Kebon Sirih No.59, RT.8/RW.2, Kb. Sirih, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10340",
+        "latitude": -6.200520,
+        "longitude": 106.833897,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/6b8m5g0airng3-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/edklrvojiopu-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/uyf8e2b52x2q1-ID/image;s=780x0;q=60"
+        ],
+        "price": 250000,
+        "type": "car"
+    },
+    {
+        "name": "Toyota Avanza (2016)",
+        "address": "Jl. Kali Baru Timur Gg. VII No.17, RT.6/RW.7, Bungur, Kec. Senen, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10460",
+        "latitude": -6.182091,
+        "longitude": 106.838787,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/31g334szbx361-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/b18j4ha98i8o2-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/6xr4doaf6sfj3-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/tr0h7j9kjglt3-ID/image;s=780x0;q=60"
+        ],
+        "price": 300000,
+        "type": "car"
+    },
+    {
+        "name": "Honda Hr-V (2017)",
+        "address": "blok A6, Jl. Benyamin Suaeb Jl. Casa No.170, RT.13/RW.6, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630",
+        "latitude": -6.154485,
+        "longitude": 106.853136,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/46z6m43m76bq3-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/z9gzs8p2kyil3-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/hxqhvtjizin11-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/8d09xjf6q2a41-ID/image;s=780x0;q=60"
+        ],
+        "price": 250000,
+        "type": "car"
+    },
+    {
+        "name": "Kia Travello (2010)",
+        "address": "Jl. Jend. Ahmad Yani No.43, RT.5/RW.4, Utan Kayu Sel., Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13230",
+        "latitude": -6.196215,
+        "longitude": 106.870841,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/36grxcc27ife1-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/j63nq79jj7mt2-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/fnpo49g8uz362-ID/image;s=780x0;q=60"
+        ],
+        "price": 100000,
+        "type": "travel"
+    },
+    {
+        "name": "Isuzu Elf (2008)",
+        "address": "Jl. Sekolah, RT.2/RW.8, Petojo Utara, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",
+        "latitude": -6.182091,
+        "longitude": 106.838787,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/5xqta4pdycpe-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/gp0sqt1en1rc-ID/image;s=780x0;q=60"
+        ],
+        "price": 125000,
+        "type": "travel"
+    },
+    {
+        "name": "R25 2014",
+        "address": "Jl. Pramuka, RT.1/RW.6, Palmeriam, Kec. Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13140",
+        "latitude": -6.1867093,
+        "longitude": 106.8374374,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/4lj8uam75ogx1-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/7ggbs7gzl60q1-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/c5m7btg780zt3-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/0i6scvrwmop51-ID/image;s=780x0;q=60"
+        ],
+        "price": 80000,
+        "type": "motorsport"
+    },
+    {
+        "name": "CBR 2019",
+        "address": "Santa Modern Market, Jl. Cisanggiri II, RT.5/RW.4, Petogogan, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12170",
+        "latitude": -6.2400551,
+        "longitude": 106.8069261,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/luskbjzh5sun2-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/4e1jca0bjy4q-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/n45p5evv4ppe-ID/image;s=780x0;q=60"
+        ],
+        "price": 90000,
+        "type": "motorsport"
+    },
+    {
+        "name": "CBR 2015",
+        "address": "Jl. Teuku Umar No.1, RT.1/RW.1, Gondangdia, Kec. Menteng, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10350",
+        "latitude": -6.1867093,
+        "longitude": 106.8374374,
+        "image": [
+            "https://apollo-singapore.akamaized.net/v1/files/luskbjzh5sun2-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/4e1jca0bjy4q-ID/image;s=780x0;q=60",
+            "https://apollo-singapore.akamaized.net/v1/files/n45p5evv4ppe-ID/image;s=780x0;q=60"
+        ],
+        "price": 50000,
+        "type": "motorsport"
+    }
+]
